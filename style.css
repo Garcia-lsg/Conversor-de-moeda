@@ -89,7 +89,7 @@ section {
   color: #777777;
   font-size: 14px;
 }
-.moeda-valor {
+.moeda-a-converter, .moeda-convertida  {
   color: #555555;
   font-size: 20px;
   font-weight: 700;
